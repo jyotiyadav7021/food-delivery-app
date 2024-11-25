@@ -18,6 +18,7 @@ export default function Navbar() {
           <div className="dot"></div>
 
         </div>
+        <button>Sign in </button>
       </div>
       
     </div>
